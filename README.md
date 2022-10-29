@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AfshinShahbazi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Image Processing and Mineral Processing
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Afshin Shahbazi
+- 👀 I’m interested in "Mineral Processing" and "Python Programming".
+- 🌱 I’m currently learning "Image Processing" and "Mineral Processing Circuit Optimization".
+- 💞️ I’m looking to collaborate on "Colorado School of Mines University".
 - 📫 How to reach me:
-      liknedin: https://www.linkedin.com/in/afshin-shahbazi-96938456/
+      liknedin: https://www.linkedin.com/in/afshin-shahbazi-96938456/          
       Gmail:    shahbaziafshin@gmail.com
 
 <!---
